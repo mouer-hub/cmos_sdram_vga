@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat Jul 09 17:24:05 2022
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : cmos_sdram_vga
+Top-level Entity Name : top
+Family : Cyclone IV E
+Total logic elements : 3,296
+    Total combinational functions : 2,148
+    Dedicated logic registers : 2,026
+Total registers : 2026
+Total pins : 75
+Total virtual pins : 0
+Total memory bits : 126,208
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 2

@@ -1,0 +1,562 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/class_code/cmos_sdram_vga/prj/simulation/modelsim
+vcapture
+Z1 !s110 1649688120
+!i10b 1
+!s100 bmL=`==4zo34QP_oJV@df2
+Izzcg0AQz9imD<Z^K`]WR=1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1647341730
+8E:/class_code/cmos_sdram_vga/rtl/capture.v
+FE:/class_code/cmos_sdram_vga/rtl/capture.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1649688120.000000
+!s107 E:/class_code/cmos_sdram_vga/rtl/param.v|E:/class_code/cmos_sdram_vga/rtl/capture.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/rtl|E:/class_code/cmos_sdram_vga/rtl/capture.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+E:/class_code/cmos_sdram_vga/rtl
+Z7 tCvgOpt 0
+vcmos_config
+Z8 !s110 1649688121
+!i10b 1
+!s100 @YFYMZXm1PbI4D>lz2ZjK2
+IIY`h3d>I4ZL?6;UOigU@F0
+R2
+R0
+w1647325734
+8E:/class_code/cmos_sdram_vga/rtl/cmos_config.v
+FE:/class_code/cmos_sdram_vga/rtl/cmos_config.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z9 !s108 1649688121.000000
+!s107 E:/class_code/cmos_sdram_vga/rtl/param.v|E:/class_code/cmos_sdram_vga/rtl/cmos_config.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/rtl|E:/class_code/cmos_sdram_vga/rtl/cmos_config.v|
+!i113 1
+R5
+R6
+R7
+vcmos_top
+Z10 !s110 1649688119
+!i10b 1
+!s100 5dj2XSG[9@::IOVBe1h5z0
+I<GlK:zc7i_C@OL2gNIVzU2
+R2
+R0
+w1646963516
+8E:/class_code/cmos_sdram_vga/rtl/cmos_top.v
+FE:/class_code/cmos_sdram_vga/rtl/cmos_top.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z11 !s108 1649688118.000000
+!s107 E:/class_code/cmos_sdram_vga/rtl/cmos_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/rtl|E:/class_code/cmos_sdram_vga/rtl/cmos_top.v|
+!i113 1
+R5
+R6
+R7
+vgray2bin
+Z12 !s110 1649688118
+!i10b 1
+!s100 E2@Z[h@zgS[J0RL[4kf;71
+I7`9B<M9ET9IhNQ@]E[3YO3
+R2
+R0
+w1647482636
+8E:/class_code/cmos_sdram_vga/rtl/gray2bin.v
+FE:/class_code/cmos_sdram_vga/rtl/gray2bin.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 E:/class_code/cmos_sdram_vga/rtl/gray2bin.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/rtl|E:/class_code/cmos_sdram_vga/rtl/gray2bin.v|
+!i113 1
+R5
+R6
+R7
+vi2c_master
+R8
+!i10b 1
+!s100 3a^a?[0j>0Ic<]nnz6G6E3
+I6b^k@11d;Y9==i8<jReOj0
+R2
+R0
+w1646032380
+8E:/class_code/cmos_sdram_vga/rtl/i2c_master.v
+FE:/class_code/cmos_sdram_vga/rtl/i2c_master.v
+L0 3
+R3
+r1
+!s85 0
+31
+R9
+!s107 E:/class_code/cmos_sdram_vga/rtl/param.v|E:/class_code/cmos_sdram_vga/rtl/i2c_master.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/rtl|E:/class_code/cmos_sdram_vga/rtl/i2c_master.v|
+!i113 1
+R5
+R6
+R7
+vimag_process
+R1
+!i10b 1
+!s100 TZ70AlYJlz=b:Ml^LBbKj2
+I_N69Lb4Q_]2nMI;S6nDLM2
+R2
+R0
+w1647485260
+8E:/class_code/cmos_sdram_vga/rtl/imag_process.v
+FE:/class_code/cmos_sdram_vga/rtl/imag_process.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/class_code/cmos_sdram_vga/rtl/param.v|E:/class_code/cmos_sdram_vga/rtl/imag_process.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/rtl|E:/class_code/cmos_sdram_vga/rtl/imag_process.v|
+!i113 1
+R5
+R6
+R7
+viobuf
+R10
+!i10b 1
+!s100 NTPj03nkI<ci4bZ5G8m>Q2
+Id`ME;`gN8kC5lVj0JmcEc2
+R2
+R0
+Z13 w1646969404
+Z14 8E:/class_code/cmos_sdram_vga/ip/iobuf/iobuf.v
+Z15 FE:/class_code/cmos_sdram_vga/ip/iobuf/iobuf.v
+L0 81
+R3
+r1
+!s85 0
+31
+Z16 !s108 1649688119.000000
+Z17 !s107 E:/class_code/cmos_sdram_vga/ip/iobuf/iobuf.v|
+Z18 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/ip/iobuf|E:/class_code/cmos_sdram_vga/ip/iobuf/iobuf.v|
+!i113 1
+R5
+Z19 !s92 -vlog01compat -work work +incdir+E:/class_code/cmos_sdram_vga/ip/iobuf
+R7
+viobuf_iobuf_in_d8i
+R10
+!i10b 1
+!s100 JjAF[Xb_GHLa`99JEgSXG3
+Ib3iTJ?J9X9kD<A8<I0T442
+R2
+R0
+R13
+R14
+R15
+L0 46
+R3
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R5
+R19
+R7
+vpll0
+R10
+!i10b 1
+!s100 E8b;8hPHWX:3AB=W=OVi_2
+I>eO947oNjI;G8JJ@TP20W1
+R2
+R0
+w1646969718
+8E:/class_code/cmos_sdram_vga/ip/pll0/pll0.v
+FE:/class_code/cmos_sdram_vga/ip/pll0/pll0.v
+Z20 L0 39
+R3
+r1
+!s85 0
+31
+R16
+!s107 E:/class_code/cmos_sdram_vga/ip/pll0/pll0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/ip/pll0|E:/class_code/cmos_sdram_vga/ip/pll0/pll0.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+E:/class_code/cmos_sdram_vga/ip/pll0
+R7
+vpll0_altpll
+R10
+!i10b 1
+!s100 i>4@fMh7:Wdk27i_:EDkd2
+IO7K4^V_nKb]c<^1HSN8n33
+R2
+R0
+w1647243968
+8E:/class_code/cmos_sdram_vga/prj/db/pll0_altpll.v
+FE:/class_code/cmos_sdram_vga/prj/db/pll0_altpll.v
+L0 29
+R3
+r1
+!s85 0
+31
+R16
+!s107 E:/class_code/cmos_sdram_vga/prj/db/pll0_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/prj/db|E:/class_code/cmos_sdram_vga/prj/db/pll0_altpll.v|
+!i113 1
+R5
+Z21 !s92 -vlog01compat -work work +incdir+E:/class_code/cmos_sdram_vga/prj/db
+R7
+vpll1
+R10
+!i10b 1
+!s100 K1NEgZEkT[FCGmX]9Dz;52
+I27STN2`WTPQ_eb>GzH<l_1
+R2
+R0
+w1647336944
+8E:/class_code/cmos_sdram_vga/ip/pll1/pll1.v
+FE:/class_code/cmos_sdram_vga/ip/pll1/pll1.v
+R20
+R3
+r1
+!s85 0
+31
+R16
+!s107 E:/class_code/cmos_sdram_vga/ip/pll1/pll1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/ip/pll1|E:/class_code/cmos_sdram_vga/ip/pll1/pll1.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+E:/class_code/cmos_sdram_vga/ip/pll1
+R7
+vpll1_altpll1
+R1
+!i10b 1
+!s100 ^SeOTGfinzLYj31]ZUGTe2
+I^lc0H>:d<5iz<D4h3:5BB2
+R2
+R0
+w1647336960
+8E:/class_code/cmos_sdram_vga/prj/db/pll1_altpll1.v
+FE:/class_code/cmos_sdram_vga/prj/db/pll1_altpll1.v
+L0 30
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/class_code/cmos_sdram_vga/prj/db/pll1_altpll1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/prj/db|E:/class_code/cmos_sdram_vga/prj/db/pll1_altpll1.v|
+!i113 1
+R5
+R21
+R7
+vrdfifo
+R10
+!i10b 1
+!s100 g>8DSfM0:QD>O:H5>XAa[2
+ISQ?jb>g5FiY8DT=lZ2UDD0
+R2
+R0
+w1647311156
+8E:/class_code/cmos_sdram_vga/ip/rdfifo/rdfifo.v
+FE:/class_code/cmos_sdram_vga/ip/rdfifo/rdfifo.v
+R20
+R3
+r1
+!s85 0
+31
+R16
+!s107 E:/class_code/cmos_sdram_vga/ip/rdfifo/rdfifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/ip/rdfifo|E:/class_code/cmos_sdram_vga/ip/rdfifo/rdfifo.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+E:/class_code/cmos_sdram_vga/ip/rdfifo
+R7
+vrgb2gray
+R12
+!i10b 1
+!s100 ^1<7X8mY<G3^bIdCzIKGj2
+IW;KkjhP=gkEBhTYLam:LA2
+R2
+R0
+w1647429522
+8E:/class_code/cmos_sdram_vga/rtl/rgb2gray.v
+FE:/class_code/cmos_sdram_vga/rtl/rgb2gray.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 E:/class_code/cmos_sdram_vga/rtl/rgb2gray.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/rtl|E:/class_code/cmos_sdram_vga/rtl/rgb2gray.v|
+!i113 1
+R5
+R6
+R7
+vsdr
+!s110 1649688123
+!i10b 1
+!s100 W@8Q<SJ<FO?kAPM?n4KFg1
+I66FL_Yk29]2m>nbcaPc<>0
+R2
+R0
+Z22 w1599705358
+8E:/class_code/cmos_sdram_vga/prj/../tb/sdram_slave_model/sdr.v
+FE:/class_code/cmos_sdram_vga/prj/../tb/sdram_slave_model/sdr.v
+Z23 FE:/class_code/cmos_sdram_vga/prj/../tb/sdram_slave_model/sdr_parameters.vh
+L0 48
+R3
+r1
+!s85 0
+31
+!s108 1649688123.000000
+!s107 E:/class_code/cmos_sdram_vga/prj/../tb/sdram_slave_model/sdr_parameters.vh|E:/class_code/cmos_sdram_vga/prj/../tb/sdram_slave_model/sdr.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/prj/../tb/sdram_slave_model|E:/class_code/cmos_sdram_vga/prj/../tb/sdram_slave_model/sdr.v|
+!i113 1
+R5
+Z24 !s92 -vlog01compat -work work +incdir+E:/class_code/cmos_sdram_vga/prj/../tb/sdram_slave_model
+R7
+vsdr_module
+Z25 !s110 1649688122
+!i10b 1
+!s100 4IGDa4P;k;QfNVG9hXUIX0
+I=k]ma55<Q38:9aodOC=0J3
+R2
+R0
+R22
+8E:/class_code/cmos_sdram_vga/prj/../tb/sdram_slave_model/sdr_module.v
+FE:/class_code/cmos_sdram_vga/prj/../tb/sdram_slave_model/sdr_module.v
+R23
+L0 3
+R3
+r1
+!s85 0
+31
+Z26 !s108 1649688122.000000
+!s107 E:/class_code/cmos_sdram_vga/prj/../tb/sdram_slave_model/sdr_parameters.vh|E:/class_code/cmos_sdram_vga/prj/../tb/sdram_slave_model/sdr_module.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/prj/../tb/sdram_slave_model|E:/class_code/cmos_sdram_vga/prj/../tb/sdram_slave_model/sdr_module.v|
+!i113 1
+R5
+R24
+R7
+vsdram_controller
+R8
+!i10b 1
+!s100 _gPKFhkggXEM1;o2n^Z7c1
+IaAQ5Y];Y[>aR>aC]FC`7;1
+R2
+R0
+w1647591096
+8E:/class_code/cmos_sdram_vga/rtl/sdram_controller.v
+FE:/class_code/cmos_sdram_vga/rtl/sdram_controller.v
+L0 2
+R3
+r1
+!s85 0
+31
+R9
+!s107 E:/class_code/cmos_sdram_vga/rtl/param.v|E:/class_code/cmos_sdram_vga/rtl/sdram_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/rtl|E:/class_code/cmos_sdram_vga/rtl/sdram_controller.v|
+!i113 1
+R5
+R6
+R7
+vsdram_ctrl
+!s110 1649689152
+!i10b 1
+!s100 POQXkY;N79V=hj9Xhoj3C0
+I]f5ic=4?W5>nAkTN=I6lH3
+R2
+R0
+w1649689129
+8E:/class_code/cmos_sdram_vga/rtl/sdram_ctrl.v
+FE:/class_code/cmos_sdram_vga/rtl/sdram_ctrl.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1649689152.000000
+!s107 E:/class_code/cmos_sdram_vga/rtl/param.v|E:/class_code/cmos_sdram_vga/rtl/sdram_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/rtl|E:/class_code/cmos_sdram_vga/rtl/sdram_ctrl.v|
+!i113 1
+R5
+R6
+R7
+vsobel
+R12
+!i10b 1
+!s100 afVKk76aYCjU`^nSgRJ5N2
+I_WaEmbMWKkA]h<O74ec7T3
+R2
+R0
+w1647488074
+8E:/class_code/cmos_sdram_vga/rtl/sobel.v
+FE:/class_code/cmos_sdram_vga/rtl/sobel.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 E:/class_code/cmos_sdram_vga/rtl/sobel.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/rtl|E:/class_code/cmos_sdram_vga/rtl/sobel.v|
+!i113 1
+R5
+R6
+R7
+vsobel_line_buf
+R10
+!i10b 1
+!s100 BXP8GkWaEg<a@JdO_DO>@3
+Ib_W<1D6CS]GfPnaS?fL:j0
+R2
+R0
+w1647483352
+8E:/class_code/cmos_sdram_vga/ip/sobel_line_buf/sobel_line_buf.v
+FE:/class_code/cmos_sdram_vga/ip/sobel_line_buf/sobel_line_buf.v
+R20
+R3
+r1
+!s85 0
+31
+R16
+!s107 E:/class_code/cmos_sdram_vga/ip/sobel_line_buf/sobel_line_buf.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/ip/sobel_line_buf|E:/class_code/cmos_sdram_vga/ip/sobel_line_buf/sobel_line_buf.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+E:/class_code/cmos_sdram_vga/ip/sobel_line_buf
+R7
+vtop
+R1
+!i10b 1
+!s100 :>Q0C3^26;`Anb9]DXnBF2
+I@XTUYzEG<e=`_lg?8FME53
+R2
+R0
+w1647485496
+8E:/class_code/cmos_sdram_vga/rtl/top.v
+FE:/class_code/cmos_sdram_vga/rtl/top.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/class_code/cmos_sdram_vga/rtl/param.v|E:/class_code/cmos_sdram_vga/rtl/top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/rtl|E:/class_code/cmos_sdram_vga/rtl/top.v|
+!i113 1
+R5
+R6
+R7
+vtop_tb
+R25
+!i10b 1
+!s100 EkW4U8mYL17XXHGEDmc>:1
+IMh[aD1zNCMaWVBSe<m7Ub0
+R2
+R0
+w1647429118
+8E:/class_code/cmos_sdram_vga/prj/../tb/top_tb.v
+FE:/class_code/cmos_sdram_vga/prj/../tb/top_tb.v
+L0 4
+R3
+r1
+!s85 0
+31
+R26
+!s107 E:/class_code/cmos_sdram_vga/prj/../tb/../rtl/param.v|E:/class_code/cmos_sdram_vga/prj/../tb/top_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/prj/../tb|E:/class_code/cmos_sdram_vga/prj/../tb/top_tb.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+E:/class_code/cmos_sdram_vga/prj/../tb
+R7
+vvga_buf
+R10
+!i10b 1
+!s100 FF:[Z[z?=Ae;:DD1KdPV^3
+IG>9FmYoCDEEiC3zShAbV:1
+R2
+R0
+w1647223742
+8E:/class_code/cmos_sdram_vga/ip/vga_buf/vga_buf.v
+FE:/class_code/cmos_sdram_vga/ip/vga_buf/vga_buf.v
+R20
+R3
+r1
+!s85 0
+31
+R16
+!s107 E:/class_code/cmos_sdram_vga/ip/vga_buf/vga_buf.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/ip/vga_buf|E:/class_code/cmos_sdram_vga/ip/vga_buf/vga_buf.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+E:/class_code/cmos_sdram_vga/ip/vga_buf
+R7
+vvga_interface
+R1
+!i10b 1
+!s100 NcH:KbGW`8G1V5?Gm_[;Q1
+IC4^gzh5_V0IEh>UF>E[3f1
+R2
+R0
+w1647225466
+8E:/class_code/cmos_sdram_vga/rtl/vga_interface.v
+FE:/class_code/cmos_sdram_vga/rtl/vga_interface.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/class_code/cmos_sdram_vga/rtl/param.v|E:/class_code/cmos_sdram_vga/rtl/vga_interface.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/rtl|E:/class_code/cmos_sdram_vga/rtl/vga_interface.v|
+!i113 1
+R5
+R6
+R7
+vwrfifo
+R10
+!i10b 1
+!s100 _8?2cnB5Dhe<8C1[S3YnY0
+I3=A;kfIDRn=J9K0ofEi;l3
+R2
+R0
+w1647249480
+8E:/class_code/cmos_sdram_vga/ip/wrfifo/wrfifo.v
+FE:/class_code/cmos_sdram_vga/ip/wrfifo/wrfifo.v
+R20
+R3
+r1
+!s85 0
+31
+R16
+!s107 E:/class_code/cmos_sdram_vga/ip/wrfifo/wrfifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/class_code/cmos_sdram_vga/ip/wrfifo|E:/class_code/cmos_sdram_vga/ip/wrfifo/wrfifo.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+E:/class_code/cmos_sdram_vga/ip/wrfifo
+R7

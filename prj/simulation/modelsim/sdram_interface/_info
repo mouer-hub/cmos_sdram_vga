@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/class8/cmos_sdram_vga/prj/simulation/modelsim
+valtera_reset_controller
+Z0 !s110 1649688122
+!i10b 1
+!s100 z[H_hRO9gO=:^2E3_jWH03
+I1fb3@;BdS?Z2m@>Lg:fKY1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/class_code/cmos_sdram_vga/prj/simulation/modelsim
+Z3 w1649687743
+8e:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface/submodules/altera_reset_controller.v
+Fe:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface/submodules/altera_reset_controller.v
+L0 42
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1649688121.000000
+!s107 e:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface/submodules/altera_reset_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|sdram_interface|+incdir+e:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface/submodules|e:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface/submodules/altera_reset_controller.v|
+!i113 1
+Z6 o-vlog01compat -work sdram_interface
+Z7 !s92 -vlog01compat -work sdram_interface +incdir+e:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface/submodules
+Z8 tCvgOpt 0
+valtera_reset_synchronizer
+R0
+!i10b 1
+!s100 oWLYmSO[EOX[G0PgQhZ2=0
+I76_;MRDa?SbX4UN:@RlT43
+R1
+R2
+R3
+8e:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface/submodules/altera_reset_synchronizer.v
+Fe:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface/submodules/altera_reset_synchronizer.v
+L0 24
+R4
+r1
+!s85 0
+31
+Z9 !s108 1649688122.000000
+!s107 e:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface/submodules/altera_reset_synchronizer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|sdram_interface|+incdir+e:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface/submodules|e:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface/submodules/altera_reset_synchronizer.v|
+!i113 1
+R6
+R7
+R8
+vsdram_interface
+!s110 1649688121
+!i10b 1
+!s100 oN2E6G>jdn@aR5nQGRiUb0
+II9i8oODNaRQ;B`U13a2Jc1
+R1
+R2
+w1649687742
+8e:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface/sdram_interface.v
+Fe:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface/sdram_interface.v
+L0 6
+R4
+r1
+!s85 0
+31
+R5
+!s107 e:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface/sdram_interface.v|
+!s90 -reportprogress|300|-vlog01compat|-work|sdram_interface|+incdir+e:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface|e:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface/sdram_interface.v|
+!i113 1
+R6
+!s92 -vlog01compat -work sdram_interface +incdir+e:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface
+R8
+vsdram_interface_sdram_controller
+R0
+!i10b 1
+!s100 ]VYbD8JFJP0AKGEW`LHNo0
+Il`?62`bAW4[fGAgFo4=DP2
+R1
+R2
+R3
+Z10 8e:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface/submodules/sdram_interface_sdram_controller.v
+Z11 Fe:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface/submodules/sdram_interface_sdram_controller.v
+L0 159
+R4
+r1
+!s85 0
+31
+R9
+Z12 !s107 e:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface/submodules/sdram_interface_sdram_controller.v|
+Z13 !s90 -reportprogress|300|-vlog01compat|-work|sdram_interface|+incdir+e:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface/submodules|e:/class_code/cmos_sdram_vga/prj/db/ip/sdram_interface/submodules/sdram_interface_sdram_controller.v|
+!i113 1
+R6
+R7
+R8
+vsdram_interface_sdram_controller_input_efifo_module
+R0
+!i10b 1
+!s100 >`17H_f<GU:LPVnHjS=B33
+I]k83k>jcWA3EXfTz@IoHC3
+R1
+R2
+R3
+R10
+R11
+L0 21
+R4
+r1
+!s85 0
+31
+R9
+R12
+R13
+!i113 1
+R6
+R7
+R8
